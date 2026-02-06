@@ -1,13 +1,13 @@
 # Active-Directory-Domain-Lab
 
 ## Table of Contents
-- Project Overview
-- Step 1: Adding AD DC
-- Step 2: Adding Users
-- Step 3: Adding Workstations
-- Step 4: Group Policy
-- Step 5: Security Groups
-- Lessons Learned
+- [Project Overview](#project-overview)
+- [Step 1: Adding AD DC](#step-1-adding-ad-dc)
+- [Step 2: Adding Users](#step-2-adding-users)
+- [Step 3: Adding Workstations](#step-3-adding-workstations)
+- [Step 4: Group Policy](#step-4-creating-a-group-policy)
+- [Step 5: Security Groups](#step-5-security-groups)
+- [Lessons Learned](#lessons-learned)
 
 ## Project Overview
 Now that we have a sandbox lab setup, I will install an Active Directory Domain Controller (AD DC) for two purposes. 
