@@ -170,7 +170,7 @@ Now we connect people to roles. I created three department-based security groups
  
 <br>
 
-<img src="Images/Screenshot 2026-02-05 134745.png" alt="AD Network Settings" width="800">
+<img src="Images/Screenshot 2026-02-08 083814.png" alt="AD Network Settings" width="800">
 
 <br>
 
